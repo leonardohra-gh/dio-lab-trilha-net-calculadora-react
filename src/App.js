@@ -7,7 +7,7 @@ const App = () =>
   return (
     <Container>
       <Content>
-        Olá
+        <Input />
       </Content>
     </Container>
   );
